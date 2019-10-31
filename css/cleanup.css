@@ -2,4 +2,4 @@
 
 #wall .tag-1 {display:none}
 
-#wall > #tag-2 {display: none;}
+#tag-2[z-index=6] {display: none;}
